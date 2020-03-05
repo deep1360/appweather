@@ -51,7 +51,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="15dp"
             android:text="MIN"
-            android:textSize="10dp"></TextView>
+            android:textSize="20dp"></TextView>
 
         <TextView
             android:layout_width="wrap_content"
@@ -82,7 +82,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
             android:text="Min"
-            android:textSize="30dp"></TextView>
+            android:textSize="20dp"></TextView>
 
         <TextView
             android:id="@+id/txtTemp"
@@ -149,7 +149,7 @@
             android:layout_marginLeft="25dp"
             android:layout_marginTop="35dp"
             android:text="0"
-            android:textSize="50dp"></TextView>
+            android:textSize="20dp"></TextView>
 
 
     </LinearLayout>
